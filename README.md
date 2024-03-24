@@ -6,8 +6,8 @@ conote is a simple and online notebook that allows you to save your notes, memor
 
 # System Features
 - [x] Notification system : Creating and using a suitable structure according to the abstract factory design pattern to send email and SMS according to a specific structure
-- [x] Logging system : Use a logging system for troubleshooting
-- [x] Comment system and Webscoket: Using the ability to comment and notify comments online using the web socket protocol   
+- [ ] Logging system : Use a logging system for troubleshooting
+- [ ] Comment system and Webscoket: Using the ability to comment and notify comments online using the web socket protocol   
 - [x] JWT Authentication : It uses JWT tokens to authenticate users, which works on platforms other than the web
 - [x] Clear structure : The code is written in a way that is easy to understand and modify
 
