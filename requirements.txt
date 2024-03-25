@@ -10,3 +10,7 @@ aiohttp==3.9.3
 model-bakery==1.17.0
 pytest-django==4.8.0
 pillow==10.2.0
+channels==4.0.0
+redis==5.0.3
+channels-redis==4.2.0
+daphne==4.1.0
